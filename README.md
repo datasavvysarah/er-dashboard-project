@@ -80,8 +80,9 @@ QuickCare_ER_Dashboard.pbix
 ```
 er-dashboard-project/
 │
-├── african_patient_dataa.csv              # Generated synthetic dataset
 ├── healthcare_datasets.py         # Python data generation script
+├── QUICKCARE_ER_DASHBOARD.pbix # Power BI dashboard file
+├── african_patient_dataa.csv              # Generated synthetic dataset
 ├── QuickCare_ER_Dashboard.pbix # Power BI dashboard file
 └── README.md                   # Project documentation
 ```
